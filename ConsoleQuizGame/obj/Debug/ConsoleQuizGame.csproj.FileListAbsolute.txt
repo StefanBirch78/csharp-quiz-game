@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ConsoleQuizGame\ConsoleQuizGame\bin\Debug\ConsoleQuizGame.exe.config
+C:\Users\User\source\repos\ConsoleQuizGame\ConsoleQuizGame\bin\Debug\ConsoleQuizGame.exe
+C:\Users\User\source\repos\ConsoleQuizGame\ConsoleQuizGame\bin\Debug\ConsoleQuizGame.pdb
+C:\Users\User\source\repos\ConsoleQuizGame\ConsoleQuizGame\obj\Debug\ConsoleQuizGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleQuizGame\ConsoleQuizGame\obj\Debug\ConsoleQuizGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleQuizGame\ConsoleQuizGame\obj\Debug\ConsoleQuizGame.exe
+C:\Users\User\source\repos\ConsoleQuizGame\ConsoleQuizGame\obj\Debug\ConsoleQuizGame.pdb
